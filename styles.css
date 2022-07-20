@@ -1,0 +1,15 @@
+*,
+*::after, 
+*::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Cinzel', serif;
+    /* font-family: 'Fascinate', cursive;
+    font-family: 'Montserrat', sans-serif;; */
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+}
